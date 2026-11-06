@@ -1,3 +1,4 @@
+# exercice 8
 my_name = "Daniel"
 user_name = input("Please type your first name ")
 if my_name == user_name:
