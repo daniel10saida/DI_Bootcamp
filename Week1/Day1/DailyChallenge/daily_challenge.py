@@ -10,4 +10,3 @@ else:
     for character in user_input:
         build_text += character
         print(build_text)
-        
