@@ -1,8 +1,8 @@
-### Step 1: News Story
+ Step 1: News Story
 
 [Columbia University – Study Links NYC Congestion Pricing Policy to Cleaner Air](https://news.climate.columbia.edu/2026/10/07/study-nyc-congestion-pricing-air-quality/)
 
-### Step 2: The Role of Data Analysis
+ Step 2: The Role of Data Analysis
 
 The data analyzed included air pollution levels and the number of vehicles entering the congestion zone.
 
@@ -10,7 +10,7 @@ The researchers compared data from before and after the congestion pricing polic
 
 The purpose of the analysis was to understand how the policy affected traffic and pollution levels.
 
-### Step 3: The Impact of Data Analysis
+ Step 3: The Impact of Data Analysis
 
 Data analysis made it possible to compare more factors, such as weather, seasons, and differences between locations.
 
@@ -18,7 +18,7 @@ Without it, it would have been harder to know whether the changes were caused by
 
 This information can help policymakers make better decisions about how to reduce traffic congestion and pollution in the future.
 
-### Step 4: Results and Significance
+ Step 4: Results and Significance
 
 The researchers estimated that fine particulate pollution (PM2.5) inside the congestion zone decreased by approximately 13% beyond expected trends, while the number of vehicles entering the area dropped by around 11%.
 
